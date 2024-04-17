@@ -1,0 +1,4 @@
+{
+  "tester": "https://httpbin.org/get",
+  "tester1": "https://reqres.in/api"
+}

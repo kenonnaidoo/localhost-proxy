@@ -1,0 +1,15 @@
+{
+  "name": "localhost-proxy",
+  "version": "1.0.0",
+  "description": "A simple local proxy for masking external connections",
+  "main": "localhost-proxy.js",
+  "bin": {
+    "localhost-proxy": "./localhost-proxy.js"
+  },
+  "author": "Kenon Naidoo",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "http-proxy": "^1.18.1"
+  }
+}
